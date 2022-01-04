@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AJ_Talks.png">
+<SubTexture name="AJ_Talks Eyes0000" x="0" y="0" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="AJ_Talks Ogey0000" x="644" y="0" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="AJ_Talks Pensive0000" x="0" y="644" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="AJ_Talks Shook0000" x="644" y="644" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="AJ_Talks Smug0000" x="0" y="1288" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="AJ_Talks Thoughts0000" x="644" y="1288" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+</TextureAtlas>

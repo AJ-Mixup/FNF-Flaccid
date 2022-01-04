@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was terrible :("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Thoughts",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Smug",
+			"text": "So, why exactly did you decide to kidnap me..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because the artist for this mod got turbo lazy. 100%"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Smug",
+			"text": "Wild."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro, start the nextsong"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nope"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "get tf out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Smug",
+			"text": "Hey, how about we start up some music \\nwithout her..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That is a disgusting idea."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Less do it!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Eyes",
+			"text": "Yeah..."
+		}
+	]
+}

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AJ_Mad.png">
+<SubTexture name="AJ_Mad Idle0002" x="0" y="0" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Idle0001" x="364" y="0" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Idle0000" x="728" y="0" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Down0000" x="1092" y="0" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Down0001" x="0" y="644" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Down Alt0000" x="364" y="644" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Down Alt0001" x="728" y="644" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Left Alt0000" x="1092" y="644" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Left Alt0001" x="0" y="1288" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Left0000" x="364" y="1288" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Left0001" x="728" y="1288" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Right Alt0000" x="1092" y="1288" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Right Alt0001" x="0" y="1932" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Right0000" x="364" y="1932" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Right0001" x="728" y="1932" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Up Alt0000" x="1092" y="1932" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Up Alt0001" x="0" y="2576" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Up0000" x="364" y="2576" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+<SubTexture name="AJ_Mad Up0001" x="728" y="2576" width="364" height="644" frameX="0" frameY="0" frameWidth="364" frameHeight="644" />
+</TextureAtlas>

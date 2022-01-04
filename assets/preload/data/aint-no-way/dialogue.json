@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, what's poppin' gamers!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "angry",
+			"expression": "Shook",
+			"text": "Wha-What the!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ay, don't worry bruv, I aint kidnap you to hurt you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just wanna rap against you! :D"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Shook",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Pensive",
+			"text": "But, I've never rapped against anyone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wel y0u r going to rap agints somejont now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "loser"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Pensive",
+			"text": "But...\\nWhat if I'm not good at-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "feet",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "bro just stupf the gfuckn pu and rtap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aj",
+			"boxState": "normal",
+			"expression": "Ogey",
+			"text": "."
+		}
+	]
+}

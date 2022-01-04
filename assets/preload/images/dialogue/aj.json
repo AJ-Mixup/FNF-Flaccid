@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "AJ_Talks Eyes",
+			"idle_offsets": [
+				-5,
+				180
+			],
+			"idle_name": "AJ_Talks Eyes",
+			"anim": "Eyes",
+			"loop_offsets": [
+				5,
+				180
+			]
+		},
+		{
+			"loop_name": "AJ_Talks Ogey",
+			"idle_offsets": [
+				0,
+				180
+			],
+			"idle_name": "AJ_Talks Ogey",
+			"anim": "Ogey",
+			"loop_offsets": [
+				5,
+				180
+			]
+		},
+		{
+			"loop_name": "AJ_Talks Pensive",
+			"idle_offsets": [
+				0,
+				170
+			],
+			"idle_name": "AJ_Talks Pensive",
+			"anim": "Pensive",
+			"loop_offsets": [
+				5,
+				170
+			]
+		},
+		{
+			"loop_name": "AJ_Talks Shook",
+			"idle_offsets": [
+				0,
+				180
+			],
+			"idle_name": "AJ_Talks Shook",
+			"anim": "Shook",
+			"loop_offsets": [
+				5,
+				180
+			]
+		},
+		{
+			"loop_name": "AJ_Talks Smug",
+			"idle_offsets": [
+				0,
+				180
+			],
+			"idle_name": "AJ_Talks Smug",
+			"anim": "Smug",
+			"loop_offsets": [
+				5,
+				180
+			]
+		},
+		{
+			"loop_name": "AJ_Talks Thoughts",
+			"idle_offsets": [
+				0,
+				180
+			],
+			"idle_name": "AJ_Talks Thoughts",
+			"anim": "Thoughts",
+			"loop_offsets": [
+				5,
+				180
+			]
+		}
+	],
+	"image": "AJ_Talks"
+}

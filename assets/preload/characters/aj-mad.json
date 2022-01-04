@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "AJ_Mad Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AJ_Mad Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AJ_Mad Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AJ_Mad Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AJ_Mad Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "AJ_Mad Right Alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "AJ_Mad Down Alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "AJ_Mad Left Alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-500,
+				0
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AJ_Mad Up Alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AJ_Mad_assets",
+	"position": [
+		-500,
+		120
+	],
+	"healthicon": "mad-aj",
+	"flip_x": false,
+	"healthbar_colors": [
+		196,
+		94,
+		174
+	],
+	"camera_position": [
+		500,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

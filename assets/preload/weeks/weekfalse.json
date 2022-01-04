@@ -1,0 +1,48 @@
+{
+	"storyName": "Creator?",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"aj",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Aint No Way",
+			"aj",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rough",
+			"mad-aj",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Falsified",
+			"falsified",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "False"
+}

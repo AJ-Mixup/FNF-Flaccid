@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				230
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Falsified Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				465,
+				524
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Falsified Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				65,
+				232
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Falsified Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-55,
+				-263
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Falsified Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				312,
+				517
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Falsified Left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				340,
+				250
+			],
+			"anim": "SPOOK",
+			"fps": 24,
+			"name": "Falsified Spook",
+			"indices": []
+		},
+		{
+			"offsets": [
+				340,
+				250
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "Why",
+			"loop": false,
+			"name": "Falsified Why Tho"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Falsified_assets",
+	"position": [
+		-120,
+		0
+	],
+	"healthicon": "falsified",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-120
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AJ Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-120
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AJ Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-120
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AJ Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-120
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AJ Idle"
+		},
+		{
+			"offsets": [
+				-100,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "No",
+			"indices": [],
+			"name": "AJ Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AJ Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AJ_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aj",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
