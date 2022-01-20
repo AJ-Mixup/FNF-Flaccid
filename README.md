@@ -1,3 +1,4 @@
+This mod was made with:
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
@@ -84,3 +85,16 @@ NOTE: This should be used for fixing your character floating or being slightly u
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song on Freeplay by pressing Space once.
+
+
+
+
+
+
+
+
+
+
+
+
+ye :>
